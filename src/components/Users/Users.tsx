@@ -1,7 +1,6 @@
 import { useState,useEffect } from "react";
 import { Link } from "react-router-dom";
-import "./Example.css";
-import { Contacts } from "../Contacs/Contacts";
+
 
 interface User {
   id: number;
